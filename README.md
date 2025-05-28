@@ -1,6 +1,5 @@
 ## Hi there<br />
 🏫 Student at Cput<br />
-🏫 Fnb Varsity college<br />
 📖 Cput specialist at:
 1. Python
 2. Cyber Security
