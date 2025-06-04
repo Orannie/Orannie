@@ -7,7 +7,7 @@
 4. Java++
 
 📖 Web and App developer
-https://www.instagram.com/orannieofficial?igsh=bTVuYjc2bjI1ZHF0
+
 
 
 ## 🌐 Socials:
