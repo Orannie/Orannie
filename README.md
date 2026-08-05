@@ -6,12 +6,7 @@
 3. Router settings and resetting
 4. Java++
 
-📖 Web and App developer
-
-
-
-
-
+📖 Data analyst, Cyber Security and Web developer
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Orannie&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
