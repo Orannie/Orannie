@@ -5,7 +5,7 @@
 2. Cyber Security
 3. Router settings and resetting
 4. Reactive Native
-5. Jypitornotebook
+5. Jupytornotebook
 
 📖 Data analyst, Cyber Security and Web developer
 
