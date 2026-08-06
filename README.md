@@ -4,7 +4,8 @@
 1. Python
 2. Cyber Security
 3. Router settings and resetting
-4. Java++
+4. Reactive Native
+5. Jypitornotebook
 
 📖 Data analyst, Cyber Security and Web developer
 
